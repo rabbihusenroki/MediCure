@@ -1,1 +1,1 @@
-# MediCure-Online-Medicine-and-Medical-Equipment-Store
+# MediCure-Online Medicine and Medical Equipment Store
