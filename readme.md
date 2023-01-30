@@ -10,19 +10,53 @@
 
 ## Screenshots
 
-![127 0 0 1_8000_home](https://user-images.githubusercontent.com/84996850/215548341-87667f4b-9aa3-462c-afa6-63b639c532ff.png)
-![127 0 0 1_8000_allproducts](https://user-images.githubusercontent.com/84996850/215548359-8606847a-0e02-4ae4-aabf-42ba606ea79e.png)
-![127 0 0 1_8000_product_details_42_Ayurvedic%20Herbal%20Activated%20Charcoal%20Toothpaste](https://user-images.githubusercontent.com/84996850/215548499-5cc2e9d8-01c7-4b41-80f9-b45a722872de.png)
-![127 0 0 1_8000_product_cart](https://user-images.githubusercontent.com/84996850/215548524-952f65f8-f600-422d-93a2-4dd4457b0ae1.png)
-![127 0 0 1_8000_user_checkout](https://user-images.githubusercontent.com/84996850/215548568-9576275b-4640-40cd-8f5f-8c5cf0c7e359.png)
-![127 0 0 1_8000_payment_page](https://user-images.githubusercontent.com/84996850/215548633-c71b45fd-7e94-4405-922c-8c78b8861a65.png)
-![127 0 0 1_8000_user_payment_process](https://user-images.githubusercontent.com/84996850/215548658-ad0124b9-bb01-4074-8f1b-8d5eea7ddb14.png)
-![127 0 0 1_8000_order_traking](https://user-images.githubusercontent.com/84996850/215548683-1be4429d-5f9b-4bd4-98f1-887f58ae3471.png)
-![127 0 0 1_8000_login (1)](https://user-images.githubusercontent.com/84996850/215548835-b8a3552d-9d29-4877-b508-f773b43a880d.png)
-![127 0 0 1_8000_admin_login](https://user-images.githubusercontent.com/84996850/215548891-a4911aa0-26dc-4f5b-99c6-69f918daac22.png)
-![127 0 0 1_8000_admin_home](https://user-images.githubusercontent.com/84996850/215548946-386f8c34-1002-43ed-9f6f-b53cfceff077.png)
+## Home
+![127 0 0 1_8000_ (1)](https://user-images.githubusercontent.com/84996850/215550890-8946ac87-a46d-45a8-b884-7fcfbd265c12.png)
 
+## Shop
+![127 0 0 1_8000_allproducts](https://user-images.githubusercontent.com/84996850/215551181-3f7c85b5-a1a5-42ff-8297-1a7f41d61888.png)
 
+## Product Details 
+![127 0 0 1_8000_product_details_39_L%20Carnitine%20Muscle%20Recovery%20Tablets](https://user-images.githubusercontent.com/84996850/215552090-ce6a1f01-dac5-49b8-abc3-c2ac9bd4350d.png)
+
+## Wishlist
+![127 0 0 1_8000_user_wishlist](https://user-images.githubusercontent.com/84996850/215552475-1d4cedc3-459e-4113-aba7-342b701a48b9.png)
+
+## Cart
+![127 0 0 1_8000_product_cart](https://user-images.githubusercontent.com/84996850/215551521-d1605766-5c72-488d-89be-c57913c37949.png)
+
+## Checkout
+![127 0 0 1_8000_user_checkout](https://user-images.githubusercontent.com/84996850/215552570-1012588f-bc5d-4502-92a1-21e6945c0455.png)
+
+## Shipping Details
+![127 0 0 1_8000_payment_page](https://user-images.githubusercontent.com/84996850/215553797-1c8a9cb4-ebde-430d-b5cd-29b2fb24e26c.png)
+
+## Payment via Srtipe
+![127 0 0 1_8000_user_payment_process](https://user-images.githubusercontent.com/84996850/215553909-59eb301d-9816-470e-a93a-9486d97440f0.png)
+
+## Customer Login and Registration
+![127 0 0 1_8000_login (1)](https://user-images.githubusercontent.com/84996850/215554073-9b144daf-4af1-469a-a335-b776c1031bc3.png)
+
+## Email Verification
+![127 0 0 1_8000_email_verify](https://user-images.githubusercontent.com/84996850/215554740-ca36a003-0a85-483c-83bb-39fe138a7d50.png)
+
+## Customer Dashboard
+![127 0 0 1_8000_home (1)](https://user-images.githubusercontent.com/84996850/215552739-35b70020-3277-40ce-9f3d-0731e8defd55.png)
+
+## Product Tracking
+![127 0 0 1_8000_order_traking (1)](https://user-images.githubusercontent.com/84996850/215553028-19fcf4db-38a4-4e97-8e62-19fa74539066.png)
+
+## Multilingual Supported Blog
+![127 0 0 1_8000_blog_post](https://user-images.githubusercontent.com/84996850/215554860-350c4382-d219-4f85-8438-c17c918eccfd.png)
+
+## Multilingual Supported Blog Details
+![127 0 0 1_8000_blog_single_7](https://user-images.githubusercontent.com/84996850/215555191-1e55b6d5-4363-4ba3-8a7b-7f13a8732321.png)
+
+## Admin Login
+![127 0 0 1_8000_admin_login](https://user-images.githubusercontent.com/84996850/215555295-3a267ef9-121f-497f-8726-b7ca3ae593fc.png)
+
+## Admin Dashboard
+![127 0 0 1_8000_admin_home](https://user-images.githubusercontent.com/84996850/215555368-a285cd64-ab85-4817-8ddc-1cceebc79442.png)
 
 
 
@@ -140,7 +174,7 @@ composer update
 ```sh
 php artisan key:generate
 ```
-
+## Please note that all features of this project are not free or not included in this source code.
 
 ## Support
 For contribution and customisation supports, kindly contact us through the Email ID rabbihusenroki@gmail.com
