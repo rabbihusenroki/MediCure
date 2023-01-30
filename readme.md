@@ -68,7 +68,7 @@ For Admin:
 
 
 ## Demo & Credentials
-Demo Link : https://www.ulearnpro.com/demo/
+Demo Link : http://127.0.0.1:8000
 
 |    Role       |        Email ID        |   Password    |
 | ------------- | ---------------------  | ------------- |
