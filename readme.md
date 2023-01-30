@@ -123,7 +123,7 @@ php artisan key:generate
 
 
 ## Support
-For contribution and customisation supports, kindly contact us through the Email ID ulearnpro@gmail.com
+For contribution and customisation supports, kindly contact us through the Email ID rabbihusenroki@gmail.com
 
 ## License
-ULEARN is open-source software licensed under the [MIT License](LICENSE).
+MediCure is open-source software licensed under the [MIT License](LICENSE).
