@@ -1,6 +1,10 @@
 ## About MEDICURE
 
-<a href="https://github.com/rabbihusenroki">MediCure</a> is an impressive ecommerce script which comprises of all the basic features that needed for online buy. The Main Objective of the project is to manage the details of health related items, Category, Cart, Orders, Customers. It manages all the information about Medicine, Delivery, Customers. The project is totally built in administrative. The administrator and selected sub-administrator can guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the Medicine item, Category, Cart, Delivery it tracks all the details about the Cart, Orders, Customers.
+<a href="https://github.com/rabbihusenroki">MediCure</a> is an impressive eCommerce script that encompasses all the essential features required for online purchasing. The primary objective of this project is to efficiently manage the details of health-related items, including categories, carts, orders, and customer information. It effectively oversees all aspects of medicines, delivery processes, and customer management. <br />
+
+The project is designed with a comprehensive administrative structure, allowing both the administrator and selected sub-administrators to have guaranteed access. The aim is to develop an application that reduces manual tasks involved in managing medicine items, categories, carts, and deliveries, while tracking all relevant details about carts, orders, and customers. <br />
+
+MediCure also features dynamic pop-up coupons for discounts, secure payment options (Visa and MasterCard), automated invoice generation, real-time order tracking, and access to health blogs. Additionally, it provides notifications for expired products, data privacy options for users, and SEO tools for increased visibility, ensuring an innovative and user-friendly experience.
 
 ```diff
 + Requests: 
