@@ -63,62 +63,56 @@
 
 ## Key Features
 
-For Customers:
-
-●	Customers can create their own profile through a simple registration.
-
-●	Without registration they can’t order.
-
-●	They can update their profile.
-
-●	Customers can order their desired Medicine or Equipment from our online medicine store.
-●	They can pay via Visa Card and Master Card.
-
-●	Before submitting to us they can see their invoice and edit, update or delete it.
-
-●	Also they can track their order status.
-
-●	Customers can see information and description of the Medicine item from product lists
-
-●	They can search for their required one.
-●	They can add products to wishlist for further order.
-●	Customers also can select their payment method.
-●	Customers will get product invoice via mail.
-
-●	Users can message or call any time.
-
-●	Product review option.
-●	Customer can read and share Multi-Language blog.
-●	By subscribing, customer can get upcoming product notification. 
-●	Customer can get product discount by using coupon.
-●	Customer can see our product overview by video.
-●	They can share products in any social platform.
-
-
-
-
-For Admin:
-
-●	Admin can create user role for his system maintenance.
-
-●	Admin can remove any registered customer.
-●	Admin can confirm and cancel the order.
-
-●	Admin can see customer information and the total number of orders.
-
-●	Admin can add and delete products.
-
-●	Admin can update the order status.
-
-●	Admin can track monthly and yearly sales.
-●	Admin can track stock and return products.
-●	Admin can create special discount or coupon for users.
-
-●	Admin can manage all information Category, Delivery, Orders etc.
-●	Admin will get users mail via Newsletter.
-●	Admin can rank his/her website by using SEO tool
-●	Admin can change system setting.
-●	Admin can write articles in Multi-Language. 
+<ul>
+    <li><strong>For Customers:</strong>
+        <ul>
+            <li>Customers can create their own profile through a simple registration.</li>
+            <li>Without registration they can’t order.</li>
+            <li>They can update their profile.</li>
+            <li>Customers can order their desired Medicine or Equipment from our online medicine store.</li>
+            <li>They can pay via Visa Card and Master Card.</li>
+            <li>Before submitting to us, they can see their invoice and edit, update, or delete it.</li>
+            <li>Also, they can track their order status.</li>
+            <li>Customers can see information and description of the Medicine item from product lists.</li>
+            <li>They can search for their required one.</li>
+            <li>They can add products to wishlist for further order.</li>
+            <li>Customers also can select their payment method.</li>
+            <li>Customers will get product invoice via mail.</li>
+            <li>Users can message or call any time.</li>
+            <li>Product review option.</li>
+            <li>Customer can read and share Multi-Language blog.</li>
+            <li>By subscribing, customers can get upcoming product notifications.</li>
+            <li>Customers can get product discounts by using coupons.</li>
+            <li>Customers can see our product overview by video.</li>
+            <li>They can share products on any social platform.</li>
+            <li>Registered users can browse products, place orders, and access customer support.</li>
+            <li>Dynamic pop-up coupons provide discounts.</li>
+            <li>Data privacy options allow users to view, export, or delete their data, complying with GDPR-style regulations.</li>
+        </ul>
+    </li>
+    <li><strong>For Admin:</strong>
+        <ul>
+            <li>Admin can create user roles for system maintenance.</li>
+            <li>Admin can remove any registered customer.</li>
+            <li>Admin can confirm and cancel orders.</li>
+            <li>Admin can see customer information and the total number of orders.</li>
+            <li>Admin can add and delete products.</li>
+            <li>Admin can update the order status.</li>
+            <li>Admin can track monthly and yearly sales.</li>
+            <li>Admin can track stock and return products.</li>
+            <li>Admin can create special discounts or coupons for users.</li>
+            <li>Admin can manage all information: Category, Delivery, Orders, etc.</li>
+            <li>Admin will get users' mail via Newsletter.</li>
+            <li>Admin can rank his/her website by using SEO tools.</li>
+            <li>Admin can change system settings.</li>
+            <li>Admin can write articles in Multi-Language.</li>
+            <li>Admins manage customer roles, inventory, and orders, with SEO tools for increased visibility.</li>
+            <li>Notifications for expired products are sent via email and displayed on the dashboard.</li>
+            <li>Expired products are automatically removed from user view until updated, ensuring accuracy and reliability.</li>
+            <li>Admins can manage health blogs, encouraging user engagement.</li>
+        </ul>
+    </li>
+</ul>
 
 
 ## Demo & Credentials
